@@ -1,0 +1,12 @@
+{
+  "require": {
+    "webonyx/graphql-php": "^0.11.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Data\\": "data/",
+      "DataSource\\": "dataSource/",
+      "Type\\": "type/"
+    }
+  }
+}
